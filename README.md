@@ -1,7 +1,9 @@
 By Qwen
-[Qwen](https://afnan-nex.github.io/n8n-variable-code-maker/code-to-file-creator_qwen.html)
+<a href="https://afnan-nex.github.io/n8n-variable-code-maker/code-to-file-creator_qwen.html" target="_blank" rel="noopener noreferrer">Qwen</a>
+
 By Manus
-[Manus](https://afnan-nex.github.io/n8n-variable-code-maker/code-to-file-creator_manus.html)
+<a href="https://afnan-nex.github.io/n8n-variable-code-maker/code-to-file-creator_manus.html" target="_blank" rel="noopener noreferrer">Manus</a>
+
 # **n8n-anycode-runner**
 
 A web-based tool designed to simplify the process of creating and running code files for [n8n](https://n8n.io/) automation workflows. 
